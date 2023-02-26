@@ -1,0 +1,359 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+a {
+    color: black !important;
+}
+
+.modal-backdrop {
+    background-color: black !important;
+    opacity: 0.6 !important;
+}
+
+.db-color {
+    color: #1A4C7A !important;
+}
+
+/* CLASS */
+.direct-active, .message-bg {
+    background-color: #EFEFEF !important;
+}
+
+.directBody {
+    min-height: 830px !important;
+    max-height: 800px !important;
+    overflow-y: scroll !important;
+    overflow-x: hidden !important;
+
+}
+
+.m-cl {
+    max-height: 1000px !important;
+
+}
+
+.m-card {
+    max-height: 900px !important;
+
+}
+
+
+.fs-10 {
+    font-size: 10px !important;
+}
+
+.fs-11 {
+    font-size: 11px !important;
+}
+
+.fs-12 {
+    font-size: 12px !important;
+}
+
+.fs-13 {
+    font-size: 13px !important;
+}
+
+.fs-14 {
+    font-size: 14px !important;
+}
+
+.fs-15 {
+    font-size: 15px !important;
+}
+
+.fs-16 {
+    font-size: 16px !important;
+}
+
+.fs-20 {
+    font-size: 20px !important;
+}
+
+.fs-22 {
+    font-size: 22px !important;
+}
+
+.fs-28 {
+    font-size: 28px !important;
+}
+
+.text-transform-none {
+    text-transform: none !important;
+}
+
+.custom-bg {
+    background: #fafafa;
+}
+
+.border-color {
+    border-color: #DBDBDB;
+}
+
+.foo {
+    width: 75px !important;
+}
+
+.fw-bold-600 {
+    font-weight: 600 !important;
+}
+
+.dahafazla {
+    z-index: 1000 !important;
+    position: inherit !important;
+    bottom: 30px !important;
+}
+
+.search-people {
+
+    -webkit-box-shadow: 5px 0px 12px -4px rgba(0, 0, 0, 0.21);
+    -moz-box-shadow: 5px 0px 12px -4px rgba(0, 0, 0, 0.21);
+    box-shadow: 5px 0px 20px -4px rgba(0, 0, 0, 0.21);
+
+}
+
+.search-user:hover {
+    background: #f7f7f7 !important;
+}
+
+.post-img {
+    max-height: 293px !important;
+    max-width: 293px !important;
+    min-height: 293px !important;
+}
+
+.custom-area {
+    border: 0 !important;
+    outline: none !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+
+    resize: none !important;
+}
+
+.btn-cyan {
+    background: #0095F6 !important;
+    color: white !important;
+}
+
+.img-cover {
+    object-fit: cover !important;
+}
+
+.pointer {
+    cursor: pointer !important;
+}
+
+.or-text {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid #eee;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+
+.or-text span {
+    background: #fff;
+    padding: 0 10px;
+}
+
+.nav-item .nav-link.active {
+    border-top: 1px solid black !important;
+    border-bottom: 0;
+}
+
+.nav-custom-text {
+    letter-spacing: 1px !important;
+}
+
+.modal-xxl, .image-xxl {
+    max-width: 1366px !important;
+    max-height: 200px !important;
+}
+
+.modal-height {
+    min-height: 300px !important;
+}
+
+/* CLASS */
+
+/* ID */
+#profile_photo {
+    height: 150px !important;
+    width: 150px !important;
+    object-fit: cover !important;
+}
+
+.post-image {
+    max-height: 500px !important;
+    min-height: 400px !important;
+
+}
+
+
+.post-pp {
+    width: 32px !important;
+    height: 32px !important;
+}
+
+.profile-img {
+    height: 150px !important;
+    object-fit: cover !important;
+}
+
+.verified-icon {
+    width: 20px !important;
+    height: 20px !important;
+}
+
+.verified-icon::selection {
+    background: none !important;
+}
+
+.user_url:active, .active_text:active {
+    opacity: 0.6 !important;
+    transition: 0.2s !important;
+    -webkit-transition: 0.2s !important;
+    -moz-transition: 0.2s !important;
+    -ms-transition: 0.2s !important;
+    -o-transition: 0.2s !important;
+}
+
+.post_buttons:hover {
+    opacity: 0.6 !important;
+    transition: 0.2s !important;
+    -webkit-transition: 0.2s !important;
+    -moz-transition: 0.2s !important;
+    -ms-transition: 0.2s !important;
+    -o-transition: 0.2s !important;
+}
+
+.comments {
+    max-height: 700px !important;
+    overflow-y: scroll !important;
+    overflow-anchor: hidden !important;
+}
+
+.overflow-hidden {
+    overflow: hidden !important;
+}
+
+.search-user-pp {
+    width: 44 !important;
+    height: 44 !important;
+}
+
+.dropdown-menu, .dropdown-menu li, .dropdown-menu li a {
+    z-index: 1000 !important;
+}
+
+.search-people {
+    z-index: 1 !important;
+}
+
+.active-left-line {
+    border: 0 !important;
+    border-left: 2px solid black !important;
+}
+
+
+.active-left-line-effect:hover {
+    border-left: 2px solid #ede !important;
+    background: #fafafa !important;
+}
+
+.active-left-line:hover {
+    border: 0 !important;
+    border-left: 2px solid black !important;
+}
+
+.settings-photo {
+    width: 38px !important;
+    height: 38px !important;
+}
+
+.fw-settings {
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    color: black !important;
+}
+
+.form-control-m {
+    height: 32px !important;
+}
+
+.sidenav-group {
+    min-height: 45px !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif !important;
+    margin-bottom: 11px !important;
+}
+
+.sidenav-icon {
+    cursor: pointer !important;
+}
+
+.sidenav-group:hover {
+    background: #f7f7f7 !important;
+}
+
+
+/* ID */
+
+/* MEDIA */
+@media screen and (max-width:1366px) {
+    .sidenav-text {
+        display: none !important;
+    }
+
+    #sidenav {
+        width: 75px !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    .sidenav-group {
+        padding: 0 !important;
+        justify-content: center !important;
+    }
+
+    .sidenav-icon {
+        justify-content: center !important;
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    .instagram-logo {
+        display: none !important;
+    }
+
+    .dahafazla {
+        text-align: center !important;
+    }
+
+    ._ab6-- {
+        margin: 0 !important;
+    }
+}
+
+@media screen and (max-width:1185px) {
+    .search-people {
+        display: none !important;
+    }
+
+    .sidenav-text {
+        display: none !important;
+    }
+}
+
+@media screen and (max-width:998px) {
+    .settings-menu {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+    }
+
+}
