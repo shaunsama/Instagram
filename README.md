@@ -1,6 +1,6 @@
 Instagram Projesi
 
-Bu proje, popüler sosyal medya platformu Instagram'a benzer bir web uygulamasıdır. Kullanıcılar, profil oluşturabilir, fotoğraf paylaşabilir, beğenebilir, yorum yapabilir ve takip edebilirler.
+Bu proje, popüler sosyal medya platformu Instagram'a benzer bir web uygulamasıdır. Kullanıcılar, profil oluşturabilir, fotoğraf paylaşabilir, beğenebilir, yorum yapabilir, takip edebilir ve anlık mesajlaşabilirler.
 
 Özellikler:
 
